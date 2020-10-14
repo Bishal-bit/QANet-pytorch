@@ -2,7 +2,7 @@
 
 ## NOTICE
 
-I'm very busy these months. I'll return to this repo in about 10 days.
+I'm very busy  in these months. I'll return to this repo in about 10 days.
 
 ## Introduction
 
